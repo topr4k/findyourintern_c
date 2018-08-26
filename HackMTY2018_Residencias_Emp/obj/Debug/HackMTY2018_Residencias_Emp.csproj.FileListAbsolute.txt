@@ -1,0 +1,13 @@
+c:\users\franco\documents\visual studio 2013\Projects\HackMTY2018_Residencias_Emp\HackMTY2018_Residencias_Emp\bin\Debug\HackMTY2018_Residencias_Emp.exe.config
+c:\users\franco\documents\visual studio 2013\Projects\HackMTY2018_Residencias_Emp\HackMTY2018_Residencias_Emp\obj\Debug\HackMTY2018_Residencias_Emp.csprojResolveAssemblyReference.cache
+c:\users\franco\documents\visual studio 2013\Projects\HackMTY2018_Residencias_Emp\HackMTY2018_Residencias_Emp\obj\Debug\HackMTY2018_Residencias_Emp.Properties.Resources.resources
+c:\users\franco\documents\visual studio 2013\Projects\HackMTY2018_Residencias_Emp\HackMTY2018_Residencias_Emp\obj\Debug\HackMTY2018_Residencias_Emp.csproj.GenerateResource.Cache
+c:\users\franco\documents\visual studio 2013\Projects\HackMTY2018_Residencias_Emp\HackMTY2018_Residencias_Emp\bin\Debug\HackMTY2018_Residencias_Emp.exe
+c:\users\franco\documents\visual studio 2013\Projects\HackMTY2018_Residencias_Emp\HackMTY2018_Residencias_Emp\bin\Debug\HackMTY2018_Residencias_Emp.pdb
+c:\users\franco\documents\visual studio 2013\Projects\HackMTY2018_Residencias_Emp\HackMTY2018_Residencias_Emp\obj\Debug\HackMTY2018_Residencias_Emp.exe
+c:\users\franco\documents\visual studio 2013\Projects\HackMTY2018_Residencias_Emp\HackMTY2018_Residencias_Emp\obj\Debug\HackMTY2018_Residencias_Emp.pdb
+c:\users\franco\documents\visual studio 2013\Projects\HackMTY2018_Residencias_Emp\HackMTY2018_Residencias_Emp\obj\Debug\HackMTY2018_Residencias_Emp.Form2.resources
+C:\Users\Franco\documents\visual studio 2013\Projects\HackMTY2018_Residencias_Emp\HackMTY2018_Residencias_Emp\obj\Debug\HackMTY2018_Residencias_Emp.Form3.resources
+C:\Users\Franco\documents\visual studio 2013\Projects\HackMTY2018_Residencias_Emp\HackMTY2018_Residencias_Emp\obj\Debug\HackMTY2018_Residencias_Emp.Form4.resources
+C:\Users\Franco\documents\visual studio 2013\Projects\HackMTY2018_Residencias_Emp\HackMTY2018_Residencias_Emp\obj\Debug\HackMTY2018_Residencias_Emp.Form5.resources
+C:\Users\Franco\documents\visual studio 2013\Projects\HackMTY2018_Residencias_Emp\HackMTY2018_Residencias_Emp\obj\Debug\HackMTY2018_Residencias_Emp.Form6.resources
